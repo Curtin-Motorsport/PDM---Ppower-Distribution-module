@@ -87,5 +87,5 @@ The final stage of building a PCB is testing. Testing allows for the validation 
 
 JLCPCB is a trustworthy supplier of PCBs; their PCBs are consistently at a competitive price, are of a reliable quality and have a reasonable delivery time frame. They have great customer support and are always happy to help, including sending email updates to clarify PCB designs before they are manufactured.
 
-Check them out at [https://jlcpcb.com/HAR](https://jlcpcb.com/HAR).``````
+Check them out at [https://jlcpcb.com/HAR](https://jlcpcb.com/HAR).
 </div>
