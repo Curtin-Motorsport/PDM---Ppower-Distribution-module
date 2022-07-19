@@ -36,7 +36,7 @@ _STM32F429ZIT6 PCB Model_
 
 After the schematic is complete and all footprints have been assigned, the components are physically arranged to have an optimal PCB layout. Traces are then drawn to create the connections between the components on the PCB. Power calculations are used to determine the width of the tracks and the size of the polygons on the board.
 
-**STEP 3 **
+**STEP 3**
 
 Gerber Files
 
